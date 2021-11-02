@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 3,
+      "body": "Wash car Today\n\n- Two coats of wax please Biff",
+      "updated": "2021-11-02T01:07:45.290Z",
+      "created": "2021-07-13T00:16:22.399841Z"
+    },
+    {
+      "id": 4,
+      "body": "Get Ready for Monday and a new work week!\n\n- The day was quiet, let's hope the rest of the week is too.",
+      "updated": "2021-11-02T01:08:25.000Z",
+      "created": "2021-07-13T00:16:22.399841Z"
+    },
+    {
+      "id": 5,
+      "body": "Check your SYNTAX when you are coding - syntax is everything\n\n- headers vs header",
+      "updated": "2021-11-02T01:08:45.945Z",
+      "created": "2021-07-13T00:16:22.399841Z"
+    },
+    {
+      "id": 6,
+      "body": "Test from the json-server for serving up new data\n\n- Update from the web front end is working",
+      "updated": "2021-11-02T01:09:03.872Z",
+      "created": "2021-11-01T20:10:10.987876Z"
+    }
+  ]
+}
