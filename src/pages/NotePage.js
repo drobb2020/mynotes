@@ -1,15 +1,14 @@
 import React, { useState, useEffect } from "react";
-// import notes from "../assets/data";
 import { Link } from "react-router-dom";
 import { ReactComponent as ArrowLeft } from "../assets/arrow-left.svg";
 
 const NotePage = ({ match, history }) => {
   let noteId = match.params.id;
   let [note, setNote] = useState(null);
-  // let note = notes.find((note) => note.id === Number(noteId));
 
   useEffect(() => {
     getNote();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [noteId]);
 
   let getNote = async () => {
