@@ -2,27 +2,57 @@
   "notes": [
     {
       "id": 3,
-      "body": "Wash car Today\n\n- Two coats of wax please Biff",
-      "updated": "2021-11-02T01:07:45.290Z",
+      "body": "Wash car Today\n\n- Two coats of wax please Biff\n- Now I said two coats Biff",
+      "updated": "2021-11-03T14:55:15.007Z",
       "created": "2021-07-13T00:16:22.399841Z"
     },
     {
       "id": 4,
       "body": "Get Ready for Monday and a new work week!\n\n- The day was quiet, let's hope the rest of the week is too.",
-      "updated": "2021-11-02T01:08:25.000Z",
+      "updated": "2021-11-03T14:55:17.874Z",
       "created": "2021-07-13T00:16:22.399841Z"
     },
     {
       "id": 5,
-      "body": "Check your SYNTAX when you are coding - syntax is everything\n\n- headers vs header",
-      "updated": "2021-11-02T01:08:45.945Z",
+      "body": "Check your SYNTAX when you are coding\n\n- syntax is everything\n\n- headers vs header",
+      "updated": "2021-11-03T14:28:11.528Z",
       "created": "2021-07-13T00:16:22.399841Z"
     },
     {
       "id": 6,
       "body": "Test from the json-server for serving up new data\n\n- Update from the web front end is working",
-      "updated": "2021-11-02T01:09:03.872Z",
+      "updated": "2021-11-03T14:39:08.739Z",
       "created": "2021-11-01T20:10:10.987876Z"
+    },
+    {
+      "body": "Test of CRUD functionality\n\n- Works from database\n-Works from web interface",
+      "updated": "2021-11-03T14:18:11.857Z",
+      "id": 7
+    },
+    {
+      "body": "Truly Mad!\n\nTry to gradle the JVM time-to-interactive, maybe it will optimize the lazy developer avocado!",
+      "updated": "2021-11-03T14:31:50.871Z",
+      "id": 8
+    },
+    {
+      "body": "Static\n\nSo static typing the parameter won't do anything, we need to rebase the domain-specific JVM library!",
+      "updated": "2021-11-03T14:27:48.149Z",
+      "id": 9
+    },
+    {
+      "body": "The Cloud\n\nI'll compress the responsive big O diversity and inclusion, that should const the AWS controller!",
+      "updated": "2021-11-03T14:20:23.381Z",
+      "id": 10
+    },
+    {
+      "body": "Remote Procedure Call\n\nTry to ship the RPC abstraction, maybe it will commit the Byzantine infrastructure!",
+      "updated": "2021-11-03T14:21:05.310Z",
+      "id": 11
+    },
+    {
+      "body": "See you on the Edge\n\nSo strongly typing the Edge won't do anything, we need to pivot the fullstack MVP accessibility!",
+      "updated": "2021-11-03T14:21:45.361Z",
+      "id": 12
     }
   ]
 }
