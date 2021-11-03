@@ -1,21 +1,9 @@
 {
   "notes": [
     {
-      "id": 3,
-      "body": "Wash car Today\n\n- Two coats of wax please Biff\n- Now I said two coats Biff",
-      "updated": "2021-11-03T14:55:15.007Z",
-      "created": "2021-07-13T00:16:22.399841Z"
-    },
-    {
       "id": 4,
       "body": "Get Ready for Monday and a new work week!\n\n- The day was quiet, let's hope the rest of the week is too.",
       "updated": "2021-11-03T14:55:17.874Z",
-      "created": "2021-07-13T00:16:22.399841Z"
-    },
-    {
-      "id": 5,
-      "body": "Check your SYNTAX when you are coding\n\n- syntax is everything\n\n- headers vs header",
-      "updated": "2021-11-03T14:28:11.528Z",
       "created": "2021-07-13T00:16:22.399841Z"
     },
     {
@@ -53,6 +41,16 @@
       "body": "See you on the Edge\n\nSo strongly typing the Edge won't do anything, we need to pivot the fullstack MVP accessibility!",
       "updated": "2021-11-03T14:21:45.361Z",
       "id": 12
+    },
+    {
+      "body": "A new test after mucking with the code\n\nThis is a test after I mucked with the getNote code on the NotePage.js file. When will I ever learn",
+      "updated": "2021-11-03T15:01:18.149Z",
+      "id": 13
+    },
+    {
+      "body": "Test from the Build Server\n\nAnother test to confirm functionality!",
+      "updated": "2021-11-03T15:04:52.812Z",
+      "id": 14
     }
   ]
 }
